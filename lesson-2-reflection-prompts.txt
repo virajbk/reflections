@@ -1,6 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	A .git file is created. This is done to track changes made to the directory using Git.
+	A .git folder is created that contains all the metadata of the repository. 
+	This is done to track changes made to the directory using Git.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
