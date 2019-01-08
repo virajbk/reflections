@@ -19,6 +19,7 @@ organized? How would branches help?
 	Branches help experiment with new features and ideas without affecting the main project.
 
 How do the diagrams help you visualize the branch structure?
+	Diagrams tell us where each branch begins with respect to the master branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
