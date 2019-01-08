@@ -12,9 +12,11 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	Single files can be commited rather than committing the entire repository.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Branches help experiment with new features and ideas without affecting the main project.
 
 How do the diagrams help you visualize the branch structure?
 
