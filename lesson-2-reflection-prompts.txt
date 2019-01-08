@@ -28,3 +28,4 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	Git cannot merge sections of files that have been edited in both files, otherwise it saves time.
